@@ -21,8 +21,8 @@
 
 LCDi2c lcd;
 
-char ssid[] = "GTother";       // your network SSID (name)
-char password[] = "GeorgeP@1927";  // your network key
+char ssid[] = "";       // your network SSID (name)
+char password[] = "";  // your network key
 
 const char* serverUrl = "https://waitz.io/live/gatech";
 
